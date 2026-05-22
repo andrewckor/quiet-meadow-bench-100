@@ -1,0 +1,508 @@
+{
+  "name": "quiet-meadow-bench-100",
+  "owner": {
+    "name": "andrewckor"
+  },
+  "plugins": [
+    {
+      "name": "app-00-campaign-record-key",
+      "source": "./apps/app-00-campaign-record-key",
+      "description": "Compute active records in spreadsheets."
+    },
+    {
+      "name": "app-01-session-id-item",
+      "source": "./apps/app-01-session-id-item",
+      "description": "Approve upcoming comments in invoicing."
+    },
+    {
+      "name": "app-02-tag",
+      "source": "./apps/app-02-tag",
+      "description": "Update inactive ledgers in recruiting. Use when managing upcoming keys, managing old tags."
+    },
+    {
+      "name": "app-03-old-question",
+      "source": "./apps/app-03-old-question",
+      "description": "Create stale records in docs."
+    },
+    {
+      "name": "app-04-partial-record",
+      "source": "./apps/app-04-partial-record",
+      "description": "Update rejected records in docs. Use when managing active values, tracking active merge-request changes."
+    },
+    {
+      "name": "app-05-field-secret-alert",
+      "source": "./apps/app-05-field-secret-alert",
+      "description": "Delete fresh entrys in backup."
+    },
+    {
+      "name": "app-06-entry",
+      "source": "./apps/app-06-entry",
+      "description": "Cancel pending pipelines in crm."
+    },
+    {
+      "name": "app-07-record",
+      "source": "./apps/app-07-record",
+      "description": "Untag draft ids in project-management."
+    },
+    {
+      "name": "app-08-published-contact",
+      "source": "./apps/app-08-published-contact",
+      "description": "Cancel partial entrys in crm. Use when you need to unmute a record, tracking scheduled attachment changes."
+    },
+    {
+      "name": "app-09-key-row",
+      "source": "./apps/app-09-key-row",
+      "description": "Create full items in email."
+    },
+    {
+      "name": "app-10-kpi",
+      "source": "./apps/app-10-kpi",
+      "description": "Fetch valid records in chat."
+    },
+    {
+      "name": "app-11-image-page",
+      "source": "./apps/app-11-image-page",
+      "description": "Update active records in video-conferencing. Use when you need to create a value, managing earliest labels."
+    },
+    {
+      "name": "app-12-event",
+      "source": "./apps/app-12-event",
+      "description": "Create active fields in spreadsheets."
+    },
+    {
+      "name": "app-13-shipment-row-receipt",
+      "source": "./apps/app-13-shipment-row-receipt",
+      "description": "Reject recent tags in crm."
+    },
+    {
+      "name": "app-14-feature-flag-organization",
+      "source": "./apps/app-14-feature-flag-organization",
+      "description": "Fetch stale records in crm."
+    },
+    {
+      "name": "app-15-active-entry-audience",
+      "source": "./apps/app-15-active-entry-audience",
+      "description": "Fetch open records in crm. Use when you need to share a record, you need to unassign a lead."
+    },
+    {
+      "name": "app-16-local-item",
+      "source": "./apps/app-16-local-item",
+      "description": "Screenshot active rows in crm. Use when tracking draft id changes, createing statuss by trigger."
+    },
+    {
+      "name": "app-17-inactive-label",
+      "source": "./apps/app-17-inactive-label",
+      "description": "Delete manual records in crm. Use when updateing submissions by story."
+    },
+    {
+      "name": "app-18-record-state-key",
+      "source": "./apps/app-18-record-state-key",
+      "description": "Receive high-priority tags in ecommerce."
+    },
+    {
+      "name": "app-19-record",
+      "source": "./apps/app-19-record",
+      "description": "Remove pending entrys in email."
+    },
+    {
+      "name": "app-20-response",
+      "source": "./apps/app-20-response",
+      "description": "Update earliest kinds in project-management."
+    },
+    {
+      "name": "app-21-record-state",
+      "source": "./apps/app-21-record-state",
+      "description": "Create active records in docs. Use when tracking fresh tag changes."
+    },
+    {
+      "name": "app-22-snapshot",
+      "source": "./apps/app-22-snapshot",
+      "description": "Create active objects in crm. Use when managing fresh entrys, managing approved features, managing pending objects, tracking open object changes. Returns matching records with metadata. Supports filtering by muted object fields."
+    },
+    {
+      "name": "app-23-record",
+      "source": "./apps/app-23-record",
+      "description": "Create deleted keys in payments."
+    },
+    {
+      "name": "app-24-candidate",
+      "source": "./apps/app-24-candidate",
+      "description": "Remove archived directorys in scheduling."
+    },
+    {
+      "name": "app-25-record-deal",
+      "source": "./apps/app-25-record-deal",
+      "description": "Delete pending notifications in logistics. Use when managing blocked ids."
+    },
+    {
+      "name": "app-26-deleted-workflow",
+      "source": "./apps/app-26-deleted-workflow",
+      "description": "Create full refs in email. Use when you need to invite a key."
+    },
+    {
+      "name": "app-27-channel-id-organization",
+      "source": "./apps/app-27-channel-id-organization",
+      "description": "Approve inactive merge-requests in billing. Use when managing archived records."
+    },
+    {
+      "name": "app-28-open-item",
+      "source": "./apps/app-28-open-item",
+      "description": "Duplicate open records in crm. Use when managing active notifications."
+    },
+    {
+      "name": "app-29-active-pageview-record",
+      "source": "./apps/app-29-active-pageview-record",
+      "description": "Add tertiary bugs in calendar. Use when managing refunded services, tracking active survey changes, you need to create a quote, tracking primary row changes. Returns matching objects with metadata. Supports filtering by active email fields."
+    },
+    {
+      "name": "app-30-kind-object",
+      "source": "./apps/app-30-kind-object",
+      "description": "Archive open accounts in feature-flags."
+    },
+    {
+      "name": "app-31-item-row",
+      "source": "./apps/app-31-item-row",
+      "description": "Update earliest rows in email."
+    },
+    {
+      "name": "app-32-row",
+      "source": "./apps/app-32-row",
+      "description": "Update stale items in project-management."
+    },
+    {
+      "name": "app-33-entry-item",
+      "source": "./apps/app-33-entry-item",
+      "description": "Create active storys in logging."
+    },
+    {
+      "name": "app-34-record",
+      "source": "./apps/app-34-record",
+      "description": "Delete stale phases in ads. Use when createing keys by record."
+    },
+    {
+      "name": "app-35-label",
+      "source": "./apps/app-35-label",
+      "description": "Import rejected threads in crm."
+    },
+    {
+      "name": "app-36-record-deal",
+      "source": "./apps/app-36-record-deal",
+      "description": "Reject active kinds in spreadsheets."
+    },
+    {
+      "name": "app-37-draft-feature-row",
+      "source": "./apps/app-37-draft-feature-row",
+      "description": "Create rejected records in crm."
+    },
+    {
+      "name": "app-38-new-feature",
+      "source": "./apps/app-38-new-feature",
+      "description": "Delete active surveys in scheduling. Use when tracking unpaid record changes."
+    },
+    {
+      "name": "app-39-field-record",
+      "source": "./apps/app-39-field-record",
+      "description": "Delete earliest leads in dashboards."
+    },
+    {
+      "name": "app-40-tag",
+      "source": "./apps/app-40-tag",
+      "description": "Search pending keys in email."
+    },
+    {
+      "name": "app-41-record-field-record",
+      "source": "./apps/app-41-record-field-record",
+      "description": "List unverified rows in calendar."
+    },
+    {
+      "name": "app-42-object-id",
+      "source": "./apps/app-42-object-id",
+      "description": "Unassign approved records in email. Use when you need to fetch a status."
+    },
+    {
+      "name": "app-43-post-route-entry",
+      "source": "./apps/app-43-post-route-entry",
+      "description": "List valid requests in payments."
+    },
+    {
+      "name": "app-44-kind-record",
+      "source": "./apps/app-44-kind-record",
+      "description": "Monitor retrying categorys in logging. Use when fetching entrys by company, you need to update a record, tracking fresh record changes. Returns matching records with metadata. Supports filtering by active reaction fields."
+    },
+    {
+      "name": "app-45-draft-record",
+      "source": "./apps/app-45-draft-record",
+      "description": "Sort open ids in crm."
+    },
+    {
+      "name": "app-46-approved-key",
+      "source": "./apps/app-46-approved-key",
+      "description": "Merge recent requests in crm."
+    },
+    {
+      "name": "app-47-draft-message-record",
+      "source": "./apps/app-47-draft-message-record",
+      "description": "Monitor primary tasks in payroll."
+    },
+    {
+      "name": "app-48-row-tracking",
+      "source": "./apps/app-48-row-tracking",
+      "description": "Tag internal objects in backup."
+    },
+    {
+      "name": "app-49-session-record-entry",
+      "source": "./apps/app-49-session-record-entry",
+      "description": "Rollback empty companys in events."
+    },
+    {
+      "name": "app-50-category",
+      "source": "./apps/app-50-category",
+      "description": "Vote approved fields in email."
+    },
+    {
+      "name": "app-51-row-post-feature",
+      "source": "./apps/app-51-row-post-feature",
+      "description": "Publish verified objects in video-conferencing. Use when tracking pending query changes, you need to reject a record."
+    },
+    {
+      "name": "app-52-active-channel-issue",
+      "source": "./apps/app-52-active-channel-issue",
+      "description": "Add published refs in email."
+    },
+    {
+      "name": "app-53-record-status-entry",
+      "source": "./apps/app-53-record-status-entry",
+      "description": "Delete inactive records in crm."
+    },
+    {
+      "name": "app-54-message",
+      "source": "./apps/app-54-message",
+      "description": "Delete inactive records in knowledge-base."
+    },
+    {
+      "name": "app-55-field",
+      "source": "./apps/app-55-field",
+      "description": "Update active labels in video-conferencing."
+    },
+    {
+      "name": "app-56-estimate-reaction-ref",
+      "source": "./apps/app-56-estimate-reaction-ref",
+      "description": "Match pending payments in calendar."
+    },
+    {
+      "name": "app-57-new-entry",
+      "source": "./apps/app-57-new-entry",
+      "description": "Encrypt approved records in project-management."
+    },
+    {
+      "name": "app-58-kind-tag",
+      "source": "./apps/app-58-kind-tag",
+      "description": "List inactive values in email."
+    },
+    {
+      "name": "app-59-default-block",
+      "source": "./apps/app-59-default-block",
+      "description": "Create active objects in email."
+    },
+    {
+      "name": "app-60-ref-object",
+      "source": "./apps/app-60-ref-object",
+      "description": "Get pending records in email. Use when tracking deleted field changes."
+    },
+    {
+      "name": "app-61-ref-lead-stage",
+      "source": "./apps/app-61-ref-lead-stage",
+      "description": "List unpaid audios in crm. Use when you need to add a record, tracking latest row changes."
+    },
+    {
+      "name": "app-62-variant-entry",
+      "source": "./apps/app-62-variant-entry",
+      "description": "Remove draft records in support. Use when tracking open record changes, tracking active team changes."
+    },
+    {
+      "name": "app-63-kind-record",
+      "source": "./apps/app-63-kind-record",
+      "description": "Create old records in calendar. Use when you need to remove a key."
+    },
+    {
+      "name": "app-64-value-field-query",
+      "source": "./apps/app-64-value-field-query",
+      "description": "Search fresh statuss in feature-flags."
+    },
+    {
+      "name": "app-65-entry-record-key",
+      "source": "./apps/app-65-entry-record-key",
+      "description": "Cancel public records in wiki."
+    },
+    {
+      "name": "app-66-manual-entry-object",
+      "source": "./apps/app-66-manual-entry-object",
+      "description": "Delete active records in docs."
+    },
+    {
+      "name": "app-67-incomplete-id",
+      "source": "./apps/app-67-incomplete-id",
+      "description": "Send public records in crm."
+    },
+    {
+      "name": "app-68-value",
+      "source": "./apps/app-68-value",
+      "description": "Delete unsynced phones in surveys."
+    },
+    {
+      "name": "app-69-alert-record",
+      "source": "./apps/app-69-alert-record",
+      "description": "Delete pinned secrets in chat. Use when you need to create a build."
+    },
+    {
+      "name": "app-70-sprint-story",
+      "source": "./apps/app-70-sprint-story",
+      "description": "Publish overdue subtasks in spreadsheets. Use when finding states by row."
+    },
+    {
+      "name": "app-71-valid-issue",
+      "source": "./apps/app-71-valid-issue",
+      "description": "Validate deleted records in video-conferencing."
+    },
+    {
+      "name": "app-72-token-record",
+      "source": "./apps/app-72-token-record",
+      "description": "Import active rows in calendar."
+    },
+    {
+      "name": "app-73-automation-release-entry",
+      "source": "./apps/app-73-automation-release-entry",
+      "description": "Diff active groups in project-management."
+    },
+    {
+      "name": "app-74-id",
+      "source": "./apps/app-74-id",
+      "description": "Send blocked branchs in crm."
+    },
+    {
+      "name": "app-75-item",
+      "source": "./apps/app-75-item",
+      "description": "Publish active objects in subscriptions."
+    },
+    {
+      "name": "app-76-query-contact",
+      "source": "./apps/app-76-query-contact",
+      "description": "Screenshot open reactions in dashboards."
+    },
+    {
+      "name": "app-77-merge-request",
+      "source": "./apps/app-77-merge-request",
+      "description": "Undo active types in forms."
+    },
+    {
+      "name": "app-78-email-entry",
+      "source": "./apps/app-78-email-entry",
+      "description": "Calculate inactive phones in helpdesk. Use when you need to find a status, tracking active contact changes, tracking flagged label changes. Returns matching contacts with metadata. Supports filtering by old reply fields."
+    },
+    {
+      "name": "app-79-billable-row",
+      "source": "./apps/app-79-billable-row",
+      "description": "Update closed threads in crm."
+    },
+    {
+      "name": "app-80-ledger-tag-record",
+      "source": "./apps/app-80-ledger-tag-record",
+      "description": "Search failed invoices in dashboards. Use when tracking untrusted shipment changes, you need to update a key."
+    },
+    {
+      "name": "app-81-sheet-sheet",
+      "source": "./apps/app-81-sheet-sheet",
+      "description": "Delete full entrys in email."
+    },
+    {
+      "name": "app-82-credential-key",
+      "source": "./apps/app-82-credential-key",
+      "description": "Approve fresh records in calendar. Use when tracking completed goal changes, createing values by span."
+    },
+    {
+      "name": "app-83-synced-role-channel",
+      "source": "./apps/app-83-synced-role-channel",
+      "description": "Get archived workbooks in forms."
+    },
+    {
+      "name": "app-84-estimate-record-row",
+      "source": "./apps/app-84-estimate-record-row",
+      "description": "Rollback new commits in chat. Use when geting assets by item, managing approved entrys."
+    },
+    {
+      "name": "app-85-label-record-okr",
+      "source": "./apps/app-85-label-record-okr",
+      "description": "Import starred phases in support. Use when you need to encrypt a deal, managing stale categorys, you need to fetch a id, tracking inactive backup changes. Returns matching messages with metadata. Supports filtering by active item fields."
+    },
+    {
+      "name": "app-86-latest-query",
+      "source": "./apps/app-86-latest-query",
+      "description": "Create overdue records in crm."
+    },
+    {
+      "name": "app-87-query",
+      "source": "./apps/app-87-query",
+      "description": "Export stale settings in crm. Use when pining ids by ref, searching spans by task."
+    },
+    {
+      "name": "app-88-latest-record",
+      "source": "./apps/app-88-latest-record",
+      "description": "Search active actions in video-conferencing."
+    },
+    {
+      "name": "app-89-message-event-release",
+      "source": "./apps/app-89-message-event-release",
+      "description": "List untrusted records in chat. Use when updateing records by stage, you need to receive a entry."
+    },
+    {
+      "name": "app-90-row-category-record",
+      "source": "./apps/app-90-row-category-record",
+      "description": "Favorite pending refs in crm."
+    },
+    {
+      "name": "app-91-row-inventory-deal",
+      "source": "./apps/app-91-row-inventory-deal",
+      "description": "Send deferred entrys in chat. Use when you need to search a entry, taging teams by record, tracking rejected state changes. Returns matching alerts with metadata. Supports filtering by published group fields."
+    },
+    {
+      "name": "app-92-record-phase",
+      "source": "./apps/app-92-record-phase",
+      "description": "Update default fields in time-tracking. Use when restoreing records by item, managing active records."
+    },
+    {
+      "name": "app-93-segment",
+      "source": "./apps/app-93-segment",
+      "description": "List active objects in surveys."
+    },
+    {
+      "name": "app-94-id",
+      "source": "./apps/app-94-id",
+      "description": "Update public entrys in email."
+    },
+    {
+      "name": "app-95-valid-record",
+      "source": "./apps/app-95-valid-record",
+      "description": "Unpin partial types in crm."
+    },
+    {
+      "name": "app-96-draft-milestone-bug",
+      "source": "./apps/app-96-draft-milestone-bug",
+      "description": "Cancel earliest records in crm. Use when tracking overdue record changes, managing approved epics."
+    },
+    {
+      "name": "app-97-filter-tag",
+      "source": "./apps/app-97-filter-tag",
+      "description": "Export active items in invoicing."
+    },
+    {
+      "name": "app-98-license-story-sprint",
+      "source": "./apps/app-98-license-story-sprint",
+      "description": "Create inactive labels in docs."
+    },
+    {
+      "name": "app-99-label-label",
+      "source": "./apps/app-99-label-label",
+      "description": "Archive partial impressions in chat. Use when you need to reject a comment."
+    }
+  ]
+}
