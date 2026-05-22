@@ -1,0 +1,10 @@
+# app-26-deleted-workflow — scripts
+
+Create full refs in email. Use when you need to invite a key.
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce0

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-02-tag
+# Category: recruiting
+
+echo "running ${0##*/}"
+# app-02-tag 48f6c46652b9335f7f828b188e5b172f4860a4211e45468e80937463cd40f010
+# app-02-tag 48f6c46652b9335f7f8

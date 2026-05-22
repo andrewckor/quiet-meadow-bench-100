@@ -1,0 +1,27 @@
+# app-82-credential-key — scripts
+
+Approve fresh records in calendar. Use when tracking completed goal changes, createing values by span.
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227694b8cc1d77f00
+# app-82-credential-key 41c73d323adaad942a081809bbabfc75c1e0ae1decb7665227

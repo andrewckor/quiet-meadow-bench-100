@@ -1,0 +1,14 @@
+// Skill: app-11-image-page
+// Category: video-conferencing
+
+export function describe() {
+  return "app-11-image-page";
+}
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b23dc70d63fc1664f50e20a80a538b5b3eb36e
+# app-11-image-page fdaeb3337a9652e89e35356430b

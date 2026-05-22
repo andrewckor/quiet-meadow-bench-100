@@ -1,0 +1,47 @@
+// Skill: app-15-active-entry-audience
+// Category: crm
+
+export function describe() {
+  return "app-15-active-entry-audience";
+}
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-active-entry-audience 7de63732ab6c7e533bce929ca1c574972e94cfed0be9fd57b55a156c2a77b5bf
+# app-15-a

@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-26-deleted-workflow
+# Category: email
+
+echo "running ${0##*/}"
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cbac3e7f46ad82a6f8912f07d7cf9459238ce06858a
+# app-26-deleted-workflow fac3d0fad605b76644181cb

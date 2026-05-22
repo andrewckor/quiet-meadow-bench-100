@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-24-candidate
+# Category: scheduling
+
+echo "running ${0##*/}"
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85fa1291cb92e7793ce56a175b5946322557c2eec6a26f29c713ede0
+# app-24-candidate c879769e85

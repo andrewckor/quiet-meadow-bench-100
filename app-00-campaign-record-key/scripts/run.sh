@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-00-campaign-record-key
+# Category: spreadsheets
+
+echo "running ${0##*/}"
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f8629e36da7734e342628911d5f6fe
+# app-00-campaign-record-key fb7ed50dff2fb1b7d055dd589763ff5399f86

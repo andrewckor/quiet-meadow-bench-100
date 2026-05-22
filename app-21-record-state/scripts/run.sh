@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-21-record-state
+# Category: docs
+
+echo "running ${0##*/}"
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7ca9572deaccc5b5422b3b09cc754889f06e93ac105cb4f8e56fa
+# app-21-record-state 8fe555b490b7

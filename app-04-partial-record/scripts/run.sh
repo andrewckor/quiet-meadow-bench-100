@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Skill: app-04-partial-record
+# Category: docs
+
+echo "running ${0##*/}"
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0cd0f2060d89f343b56d0e4f
+# app-04-partial-record 3d2e7b8a60f749e75e4c87f2cdd0ae3e73f8c78b0

@@ -1,0 +1,25 @@
+# app-84-estimate-record-row — scripts
+
+Rollback new commits in chat. Use when geting assets by item, managing approved entrys.
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record-row 104fb1ebd963f98d728d770b320158973517acd6ba6d46346a62e0d0a7c9bf6b
+# app-84-estimate-record
